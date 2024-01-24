@@ -36,19 +36,31 @@ Technologies used:
 
 
 Servlet
+
 JSP
+
 Tomcat
+
 Java
+
 MYSQL
+
 bootstrap
+
 javascript
+
 HTML
+
 CSS
+
 
 To run this project you need:
 
+
 A. Apache NetBeans 12 (preferably) or Eclipse
+
 B.mysql-connector-java-5.1.46-bin.jar and servlet-api-5.5.23.jar
+
 C. Database mysql
 
 
