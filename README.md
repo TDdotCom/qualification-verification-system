@@ -3,7 +3,9 @@
 
 OBJECTIVES:
 
-QVS is a background screening and vetting system that targeting Southern Africa province. With a wide-reaching footprint across Southern Africa, QVS CAN offer services within South African. The QVS is a developed solution to be trusted and innovative smart vetting  extensive industry knowledge make QVS the system of choice, to advise and assist employers with all their candidate and commercial (clients and suppliers) background screening and vetting requirements.
+QVS is a background screening and vetting system that targeting Southern Africa province. With a wide-reaching footprint across Southern Africa, QVS can offer services within South African. 
+
+The QVS is a developed solution to be trusted and innovative smart vetting  extensive industry knowledge make QVS the system of choice, to advise and assist employers with all their candidate and commercial (clients and suppliers) background screening and vetting requirements.
 
 Problem:
 
