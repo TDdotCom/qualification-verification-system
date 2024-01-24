@@ -24,9 +24,12 @@ My aim on QVS project Is to allow it to operates as a registered credit system a
 Services offered by QVS:
 
 1. Qualification Check
+
+   
 QVS conducts verifications of matric, Grade 12 and Senior certificates. Additionally, QVS checks tertiary qualifications including short course, certificates, diplomas, degrees, honours, Doctorates, PhD's directly from institutions within South Africa.
 
 2. Academic Transcripts
+   
 the employer can also receive the history of the employee full academic transcripts. includes module details per year and results for each module.
 
 Technologies used:
