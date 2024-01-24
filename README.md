@@ -1,7 +1,7 @@
 # qualification-verification-system
 
 
-OBJECTIVES:
+Objective:
 
 QVS is a background screening and vetting system that targeting Southern Africa province. With a wide-reaching footprint across Southern Africa, QVS can offer services within South African. 
 
