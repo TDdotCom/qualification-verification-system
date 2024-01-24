@@ -1,4 +1,4 @@
-# qualification-verification-system
+# Qualification-Verification-System
 
 
 Objective:
@@ -33,6 +33,8 @@ QVS conducts verifications of matric, Grade 12 and Senior certificates. Addition
 the employer can also receive the history of the employee full academic transcripts. includes module details per year and results for each module.
 
 Technologies used:
+
+
 Servlet
 JSP
 Tomcat
